@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShowList</string>
+    <string name="aladdin">Aladdin</string>
+    <string name="frozen">Frozen</string>
+    <string name="lion_king">Lion King</string>
+    <string name="beauty_and_the_beast">Beauty and the Beast</string>
+    <string name="anastasia">Anastasia</string>
+    <string name="the_little_mermaid">The Little Mermaid</string>
+    <string name="available_frozen">Available on Monday</string>
+    <string name="available_aladdin">Available on Wednesday</string>
+    <string name="available_lion_king">Available on Friday</string>
+    <string name="available_beautynbeast">Available on Sunday</string>
+    <string name="available_anastasia">Available on Tuesday</string>
+    <string name="available_little_mermaid">Available on Thursday</string>
+
+
+</resources>
